@@ -2,4 +2,4 @@
 hello everyone 
 we're Quantum quants our progress in Smart india hackathon is uploaded in this repository
 # SIH 1615	Learning Path Dashboard for enhancing skills
-# SIH 1672	Develop a ML Model based solution to refine Captcha
+
